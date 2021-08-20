@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-
-=======
->>>>>>> aed41062f8c8aead4a98f0667821547c721fcb27
-echo "cd /home/julien"
+cd ~
